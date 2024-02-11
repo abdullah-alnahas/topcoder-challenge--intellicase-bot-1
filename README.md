@@ -1,6 +1,6 @@
 # Context
 
-This repository contains my solution to a [Topcoder challenge](https://www.topcoder.com/challenges/473d2563-9378-460d-b898-c894f39df706?tab=details). The objective of the challenge is to perform RAG over data related to Topcoder.
+This repository contains my solution to a [Topcoder challenge](https://www.topcoder.com/challenges/473d2563-9378-460d-b898-c894f39df706?tab=details). The objective of the challenge is to perform RAG over data related to Topcoder. My solution was among the [top 5](https://www.topcoder.com/challenges/473d2563-9378-460d-b898-c894f39df706?tab=submissions) solutions.
 
 ## Solution Description
 
